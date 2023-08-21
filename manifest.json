@@ -1,0 +1,6 @@
+{
+  "build/main.css": "https://cdn.jsdelivr.net/gh/jacksonsam207/godaddywebsite/main.css",
+  "build/main.js": "https://cdn.jsdelivr.net/gh/jacksonsam207/godaddywebsite/main.js",
+  "build/images/preview.png": "https://cdn.jsdelivr.net/gh/jacksonsam207/godaddywebsite/preview.png",
+  "build/images/logo.png": "https://cdn.jsdelivr.net/gh/jacksonsam207/godaddywebsite/logo.png"
+}

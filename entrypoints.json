@@ -1,0 +1,12 @@
+{
+  "entrypoints": {
+    "main": {
+      "css": [
+        "https://cdn.jsdelivr.net/gh/jacksonsam207/godaddywebsite/main.css"
+      ],
+      "js": [
+        "https://cdn.jsdelivr.net/gh/jacksonsam207/godaddywebsite/main.js"
+      ]
+    }
+  }
+}
